@@ -1,0 +1,6 @@
+step 1 گرفتن ورودی از دکمه ها و وارد کردنش وقتی کلیک شد
+step 2 فعال شدن راستی و چپی اگر هر کدوم کلیک شد \
+step 3 فعال کردن کلیک های start , reset
+step 4 loacal storage
+step 5 صدا ها 
+step 6 job is done

@@ -1,0 +1,21 @@
+.cirle-border {
+    border-width: 10px;
+}
+.rotated
+{
+    top: 2.1rem;
+    z-index: -1;
+    position: relative;
+    transform: rotate(90deg);
+    width: 100vh;
+    left: 15.6rem;
+}
+#arrow
+{
+    transition: transform 0.3;
+}
+.rotated-arrow
+{
+    
+    transform: rotate(180deg) ;
+}
